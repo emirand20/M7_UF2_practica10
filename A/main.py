@@ -1,9 +1,9 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-import Primera as a
-import Segunda as b
-import Tercera as c
+import A.Primera as a
+import A.Segunda as b
+import A.Tercera as c
 
 print("----------------------")
 print(a.pais())
