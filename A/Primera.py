@@ -5,5 +5,3 @@ def pais():
     a = df.loc[:, ['date', 'population']]
     #a = df.loc[:['date', 'population']]
     return a
-
-print(pais())
